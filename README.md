@@ -6,6 +6,7 @@ Basic .py script to download a random Earth View picture and set it as backgroun
 
 ## About Earth View
 
+[Official Website](https://earthview.withgoogle.com/)
 > **Earth View** is a collection of the most striking landscapes found in **Google Earth.**
 
 > About Earth View
